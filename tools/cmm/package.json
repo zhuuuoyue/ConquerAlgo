@@ -1,0 +1,13 @@
+{
+  "name": "cmm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.2.1",
+    "lodash": "^4.17.21"
+  }
+}
