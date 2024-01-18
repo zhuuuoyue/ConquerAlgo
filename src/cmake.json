@@ -1,0 +1,6 @@
+{
+  "name": "ConquerAlgo",
+  "startup_project": "Algo",
+  "output_directory": "../bin",
+  "debugger_working_directory": "../bin"
+}
