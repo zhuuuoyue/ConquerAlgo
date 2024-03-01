@@ -1,0 +1,6 @@
+{
+  "type": "console-application",
+  "include_directories": ["../../shared", "../../3rd/gtest/include"],
+  "link_libraries": ["gtest_maind.lib", "gtestd.lib"],
+  "link_directories": ["../../3rd/gtest/libs"]
+}
