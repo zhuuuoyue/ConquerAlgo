@@ -1,4 +1,4 @@
-@REM @echo off
+@echo off
 set solution_dir=%cd%\src
 
 cd tools/cmm
